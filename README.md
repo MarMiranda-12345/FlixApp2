@@ -11,7 +11,7 @@
 - [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
 ### App Walkthrough GIF
-<img src="http://g.recordit.co/2dTENiDyTS.gif" width=250><br>
+<img src="http://g.recordit.co/gFYn08ptSn.gif" width=250><br>
 
 ### Notes
 There seems to be an issue with the MovieGridViewController which displays the sorted superhero movies in a 4 x 4 grid rather than a 2 x 2 grid. I'll get it sorted with a future update.
